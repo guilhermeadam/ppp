@@ -14,7 +14,7 @@ export const Container = styled.div`
 `;
 
 export const ContainerTitle = styled.div`
-  line-height: 0.9;
+  line-height: 1;
 
   span {
     font-size: 32px;
