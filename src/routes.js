@@ -1,9 +1,11 @@
 import { Routes, Route } from 'react-router-dom';
 
+import Broad from './pages/broad';
+
 export default function Router() {
   return (
     <Routes>
-      <Route path='/' element={<h1>Quadro de Resumo</h1>} />
+      <Route path='/' element={<Broad />} />
       <Route path='/cobertura' element={<h1>Cobertura</h1>} />
       <Route path='/servicos' element={<h1>Serviços</h1>} />
       <Route path='/ligacoes' element={<h1>Ligações</h1>} />

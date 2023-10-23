@@ -7,7 +7,7 @@ export const Container = styled.div`
   background: #255F92;
 
   width: 100%;
-  height: 59px;
+  min-height: 59px;
 
   justify-content: space-between;
 `;
