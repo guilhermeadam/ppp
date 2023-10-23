@@ -1,0 +1,8 @@
+[
+  {"name": "Quadro Resumo", "path": "/"},
+  {"name": "Cobertura", "path": "/cobertura"},
+  {"name": "Serviços", "path": "/servicos"},
+  {"name": "Ligações", "path": "/ligacoes"},
+  {"name": "Rede", "path": "/rede"},
+  {"name": "Infraestrutura", "path": "/infraestrutura"}
+]

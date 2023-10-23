@@ -8,7 +8,7 @@ export const Container = styled.div`
 
   display: flex;
 
-  padding: 0 16px;
+  padding: 0 72px;
   align-items: center;
   justify-content: space-between;
 `;
@@ -30,4 +30,5 @@ export const ContainerTitle = styled.div`
 export const ContainerLogo = styled.div`
   display: flex;
   align-items: center;
+  gap: 34px;
 `;
